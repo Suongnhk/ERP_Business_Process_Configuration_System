@@ -8,3 +8,6 @@ This project focuses on implementing the SAP ERP system to harmonize and optimiz
 - Draw.io – for designing system architecture, data flow diagrams, and business workflows
 - Gantt Chart (Google Sheets) – for project timeline planning and task tracking
 - Google Docs – for documentation
+
+### Report (PDF, ~47MB):  
+[Click here to view/download via Google Drive](https://drive.google.com/file/d/1ZJYgI0zwki6Rh2JHUE8E6VyRmQG7m5/view?usp=drive_link)
